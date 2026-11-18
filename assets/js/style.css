@@ -1,0 +1,19 @@
+.box > div{
+    height: 250px;
+}
+
+.box.black > div {
+    background-color: black;
+}
+
+.box.pink > div {
+    background-color: pink;
+}
+
+.box.cyan > div {
+    background-color: cyan;
+}
+
+.box.gray > div {
+    background-color: gray;
+}
